@@ -1,0 +1,42 @@
+
+11월 30, 2022 20:47:00.270 NEW SESSION
+11월 30, 2022 20:47:00.271 [8544:12176:1130/204700.261:ERROR:device_event_log_impl.cc(215)] [20:47:00.260] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 30, 2022 20:47:00.272 [8544:12176:1130/204700.263:ERROR:device_event_log_impl.cc(215)] [20:47:00.262] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 30, 2022 20:47:58.251 [8544:9652:1130/204758.250:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+11월 30, 2022 20:52:49.85 [13616:5648:1130/205249.085:ERROR:device_event_log_impl.cc(215)] [20:52:49.085] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 30, 2022 20:52:49.93 [13616:5648:1130/205249.089:ERROR:device_event_log_impl.cc(215)] [20:52:49.089] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+11월 30, 2022 20:53:47.57 [13616:8060:1130/205347.057:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 01, 2022 22:39:17.379 NEW SESSION
+12월 01, 2022 22:39:17.379 [7936:7804:1201/223917.376:ERROR:device_event_log_impl.cc(215)] [22:39:17.375] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 01, 2022 22:39:17.381 [7936:7804:1201/223917.380:ERROR:device_event_log_impl.cc(215)] [22:39:17.380] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 01, 2022 22:40:17.553 [10328:12880:1201/224017.552:ERROR:device_event_log_impl.cc(215)] [22:40:17.552] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 01, 2022 22:40:17.556 [10328:12880:1201/224017.555:ERROR:device_event_log_impl.cc(215)] [22:40:17.555] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 01, 2022 22:41:15.560 [10328:1880:1201/224115.560:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 18, 2022 17:14:18.778 NEW SESSION
+12월 18, 2022 17:14:18.778 [19516:17716:1218/171418.776:ERROR:device_event_log_impl.cc(215)] [17:14:18.775] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 17:14:18.783 [19516:17716:1218/171418.783:ERROR:device_event_log_impl.cc(215)] [17:14:18.782] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 18, 2022 17:15:16.206 [19516:13140:1218/171516.205:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 18, 2022 17:38:07.439 [19516:17716:1218/173807.439:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 18, 2022 17:38:07.440 [19516:17716:1218/173807.439:ERROR:interface_endpoint_client.cc(694)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 18, 2022 18:13:09.869 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 18, 2022 18:39:40.337 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 18, 2022 18:50:16.949 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 18, 2022 18:51:17.983 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 18, 2022 18:53:43.837 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 18, 2022 18:54:38.301 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 18, 2022 19:52:50.867 [1218/195250.866:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 19:52:50.868 [1218/195250.868:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 20:01:27.697 [1218/200127.697:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 20:01:27.697 [1218/200127.697:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 20:07:13.62 [1218/200713.060:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 20:07:13.63 [1218/200713.061:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 20:07:13.64 [1218/200713.063:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 20:07:13.65 [1218/200713.064:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\dmswl\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f11cf588-c279-4154-8b98-ce6c0ebe85ae: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 18, 2022 22:15:16.206 [19516:17380:1218/221516.206:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 19, 2022 13:03:05.395 NEW SESSION
+12월 19, 2022 13:03:05.395 [12244:11148:1219/130305.392:ERROR:device_event_log_impl.cc(215)] [13:03:05.392] USB: usb_service_win.cc:415 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 19, 2022 13:03:05.396 [12244:11148:1219/130305.395:ERROR:device_event_log_impl.cc(215)] [13:03:05.395] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 19, 2022 13:04:03.260 [12244:10112:1219/130403.259:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
